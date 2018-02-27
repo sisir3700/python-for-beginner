@@ -29,4 +29,4 @@ In this section, we explain the idea of a framework and further discuss Django, 
 In this section, we compare Python to two other languages: Ruby and PHP. We discuss in detail what sets them apart, and how they are used differently from one another.
 
 
-By the way, you should follow me on [Twitter] (http://twitter.com/subrata6630.
+By the way, you should follow me on [Twitter] (http://twitter.com/subrata6630) 
